@@ -8,11 +8,11 @@ Installation is pretty simple and straight forward:
 - Done!
 
 
-#How to Use
+# How to Use
 Please write the following messages in the in-game chat. The results for the commands can be seen in the cmd program:
 /!settarget (player) - set the target to (playername)
 /!getlocation (player) - get the location of (playername)
 
-#How to Block (as a server owner)
+# How to Block (as a server owner)
 Fake locations sent to the players' log.
 Detect the Tes3Mp-Finder commands /!settarget & /!getlocation
