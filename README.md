@@ -23,3 +23,6 @@ Please write the following messages in the in-game chat. The results for the com
 # How to Block (as a server owner)
 Fake locations sent to the players' log.
 Detect the Tes3Mp-Finder commands /!settarget & /!getlocation
+
+# Note
+This doesn't work as of recent updates
